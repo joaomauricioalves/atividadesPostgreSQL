@@ -1,5 +1,3 @@
-# atividadesPostgreSQL
-
 <h1>Olá mundo!</h1>
 
 Se você está feliz bata palmas!
@@ -19,3 +17,6 @@ Criar um database com nome <b>covid_bahia</b> em seguida uma tabela com covid_ba
 O arquivo com o conteúdo chama-se: covid-19-obitos_registrados-19-07-2022.csv
 
 *Dica - o PostgreSQL permite copiar informações de uma tabela para outra, usando select distinct update insert, portanto deve ser usado cada item desses de acordo com a lógica computacional exigida.
+
+
+<a href="https://github.com/joaomauricioalves/atividadesPostgreSQL/archive/refs/heads/main.zip">Arquivos Necessários</a>
