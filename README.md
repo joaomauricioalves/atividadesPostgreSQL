@@ -17,7 +17,7 @@ Tarefa - 2
 
 Criar um database com nome <b>covid_bahia</b> em seguida uma tabela com <b>covid_bahia</b>. Nessa tarefa exige a sua
 percepção para identificar possível necessidade de normalizar essa tabela, nesse ponto, o recomendável é identificar as
-regras das formas normais.
+regras das formas normais, ou seja, se preciso for, até recriar tabelas normalizadas.
 
 O arquivo com o conteúdo chama-se: <b>covid-19-obitos_registrados-19-07-2022.csv</b>
 
